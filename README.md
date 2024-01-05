@@ -2,7 +2,7 @@
 <h3 align="center">Help To Deploy Applications With DevOps Engineer Practices</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husanbajwa&label=Profile%20views&color=0e75b6&style=flat" alt="husanbajwa" /> </p>
-
+<a href="https://ibb.co/3T7WnBP"><img src="https://i.ibb.co/VLtDs2k/Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Grey-Minimalist-Corporate-Personal-Profile-Linked-In-Banner" width="100%" border="0" /></a>
 - 🔭 I’m currently working on **Devops**
 
 - 🌱 I’m currently learning **Kubernetes, AWS , Twrraform**
